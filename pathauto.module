@@ -2,7 +2,7 @@
 
 /**
  * @defgroup pathauto Pathauto: Automatically generates aliases for content
- *
+ * test commm
  * The Pathauto module automatically generates path aliases for various kinds of
  * content (nodes, categories, users) without requiring the user to manually
  * specify the path alias. This allows you to get aliases like
